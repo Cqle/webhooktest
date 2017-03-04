@@ -2,4 +2,4 @@
 Webhook Test for Discord
 
 
-This is what we can do with webhooke.
+This is what we can do with webhooks.
